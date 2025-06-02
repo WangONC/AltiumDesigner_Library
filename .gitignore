@@ -1,0 +1,18 @@
+*/History/
+*/*/History/
+*/*/*/History/
+
+# 忽略Altium Designer临时文件
+*.SchDocPreview
+*.PcbDocPreview
+__Previews/
+*.PrjPcbStructure
+*.Dat
+*.PcbDoc.htm
+*.log
+*.zip
+*.raw
+
+# 忽略备份文件
+*.SchDoc.Zip
+*.PcbDoc.Zip
