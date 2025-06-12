@@ -30,3 +30,11 @@
 |  JieLi （杰理）  |  A14N |   [A14N 文档](https://doc.zh-jieli.com/AD14/zh-cn/master/index.html) <br/> [A14N 代码仓库](https://github.com/Jieli-Tech/fw-AD15N)   |    |
 |      |      |      |  |
 |      |      |      |  |
+|      |      |      |  |
+|  UNI-ROYAL(厚声)    |   电阻   |  [通用贴片电阻](https://www.uni-royal.cn/images/userfile/file/1745833593c56505e6d9ab55c7.pdf)    |  |
+|      |      |      |  |
+|  YAGEO(国巨)    |   电阻   |   [贴片电阻](https://www.yageo.com/upload/website/yageo_PYu-R_INT-thick_8_19090411_330.pdf)   |  |
+|      |      |      |  |
+|      |      |      |  |
+|      |      |      |  |
+|      |      |      |  |
