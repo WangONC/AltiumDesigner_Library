@@ -17,7 +17,25 @@
 | Capacitors | Tantalum      | 电容-钽电容  |     |
 |            |               |         |     |
 |            |               |         |     |
+|   Diodes   |      LED      | 二极管-发光二极管  |     |
+|            |               |         |     |
+|            |               |         |     |
+|            |               |         |     |
+|            |               |         |     |
+|            |               |         |     |
 | Inductors  | Surface Mount | 电感-贴片电感 |     |
+|            |               |         |     |
+|            |               |         |     |
+|  Connector |  Pin Header   |  连接器-排针 |     |
+| Connector  | Socket Header |  连接器-排母 |     |
+|            |               |         |     |
+|            |               |         |     |
+|            |               |         |     |
+|  Switcher  |  Push Button  | 开关-轻触开关 |  一般是按钮类   |
+|  Switcher  | Slide Switch  | 开关-滑动开关 |  单刀双置等类型，适合做状态切换或电源开关   |
+|            |               |         |     |
+|            |               |         |     |
+|            |               |         |     |
 |            |               |         |     |
 |            |               |         |     |
 |            |               |         |     |
@@ -35,6 +53,7 @@
 |      |      |      |  |
 |  YAGEO(国巨)    |   电阻   |   [贴片电阻](https://www.yageo.com/upload/website/yageo_PYu-R_INT-thick_8_19090411_330.pdf)   |  |
 |      |      |      |  |
-|      |      |      |  |
+|   YAGEO(国巨)   |   电容   |      |  |
+|   SAMSUNG(三星)   |   电容   |      |  |
 |      |      |      |  |
 |      |      |      |  |
