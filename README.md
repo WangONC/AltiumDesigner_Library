@@ -26,16 +26,17 @@
 | Inductors  | Surface Mount | 电感-贴片电感 |     |
 |            |               |         |     |
 |            |               |         |     |
-|  Connector |  Pin Header   |  连接器-排针 |     |
+| Connector |  Pin Header   |  连接器-排针 |     |
 | Connector  | Socket Header |  连接器-排母 |     |
 |            |               |         |     |
 |            |               |         |     |
 |            |               |         |     |
 |  Switcher  |  Push Button  | 开关-轻触开关 |  一般是按钮类   |
 |  Switcher  | Slide Switch  | 开关-滑动开关 |  单刀双置等类型，适合做状态切换或电源开关   |
-|   Power         |       LDO        |   电源-线性稳压器      |     |
+|   Power |   LDO |   电源-线性稳压器  |     |
 |            |               |         |     |
-|            |               |         |     |
+|   Power | Charger | 电源-充电管理   |     |
+|   Power |  PMIC   |  电源-电源管理IC  | 高度集成化的多模块电源管理芯片，例如IP5306    |
 |            |               |         |     |
 |            |               |         |     |
 |            |               |         |     |
