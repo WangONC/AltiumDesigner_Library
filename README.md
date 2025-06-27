@@ -16,7 +16,7 @@
 | Capacitors | Surface Mount | 电容-贴片电容 |     |
 | Capacitors | Tantalum      | 电容-钽电容  |     |
 |            |               |         |     |
-|   Diodes   |      LED      | 二极管-发光二极管  |     |
+|   Diodes   |      LED      | 二极管-发光二极管  |  包含单晶和多晶   |
 |            |               |         |     |
 | Inductors  | Surface Mount | 电感-贴片电感 |     |
 |            |               |         |     |
