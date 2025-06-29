@@ -33,7 +33,12 @@
 |   Power | Charger | 电源-充电管理   |     |
 |   Power |  PMIC   |  电源-电源管理IC  | 高度集成化的多模块电源管理芯片，例如IP5306    |
 |            |               |         |     |
+|    Logic   |  Shift Register   |   逻辑-移位寄存器      |  比如74HC595   |
+|    Logic   |  Decoder Encoder  |   逻辑-译码器/编码器   |  比如74HC138   |
+|    Logic |  Multiplexer   |  逻辑-多路复用器   |  比如74HC4051   |
 |            |               |         |     |
+|            |               |         |     |
+
 
 ## 供应商目录
 
