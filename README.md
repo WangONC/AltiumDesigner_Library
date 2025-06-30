@@ -6,6 +6,8 @@
 
 文件夹名称为元件供应商名称或原件类型，所有原件均**精确到具体某个品牌的某一款**，可以很容易的创建BOM单
 
+模型大部分来自于[3DContentCentral](https://www.3dcontentcentral.cn/)、原件官方提供或下载后自修改，小部分自己用solidworks创建，尽可能匹配但不保证绝对准确！
+
 ## 原件目录
 
 | 分类         | 子类别           | 描述      | 备注  |
@@ -37,7 +39,9 @@
 |    Logic   |  Decoder Encoder  |   逻辑-译码器/编码器   |  比如74HC138   |
 |    Logic |  Multiplexer   |  逻辑-多路复用器   |  比如74HC4051   |
 |            |               |         |     |
-|            |               |         |     |
+|   MCU    |   JieLi   |  MCU-杰理     | 廉价语音MCU居多    |
+|   MCU     |   STC    |  MCU-宏晶    |  经典的51单片机   |
+|   MCU     |   WCH    |  MCU-沁恒微电子  |  蓝牙MCU很常用   |
 
 
 ## 供应商目录
