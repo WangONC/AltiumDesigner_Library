@@ -33,6 +33,8 @@
 |   MCU     |   STC    |  MCU-宏晶    |  经典的51单片机   |
 |   MCU     |   WCH    |  MCU-沁恒微电子  |  蓝牙MCU很常用   |
 |            |               |         |     |
+| Oscillators | Crystal |  振荡器-石英晶振  | 包含有源和无源石英晶振 |
+|            |               |         |     |
 |   Power |   LDO |   电源-线性稳压器  |     |
 |   Power | Charger | 电源-充电管理   |     |
 |   Power |  PMIC   |  电源-电源管理IC  | 高度集成化的多模块电源管理芯片，例如IP5306    |
