@@ -20,6 +20,7 @@
 | Connector  | Socket Header |  连接器-排母 |     |
 |            |               |         |     |
 |   Diodes   |      LED      | 二极管-发光二极管  |  包含单晶和多晶   |
+|   Diodes   |   Schottky    | 二极管-肖特基二极管  |    |
 |            |               |         |     |
 |   Driver   |  LED Driver    | 驱动-LED驱动 | 包含恒流/恒压/PWM调光等类型  |
 |            |               |         |     |
