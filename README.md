@@ -47,7 +47,9 @@
 |            |               |         |     |
 |  Transistors |  BJT    | 晶体管-三极管 | NPN/PNP型 |
 | Transistors |  MOSFET      | 晶体管-场效应管  | N沟道/P沟道 |
+|  Transistors |  Darlington  |  晶体管-达林顿管 | 包含单管和阵列 |
 |            |               |         |     |
+
 
 ## 供应商目录
 
