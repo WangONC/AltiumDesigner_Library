@@ -18,6 +18,7 @@
 | Connector |    USB     |  连接器-USB连接器 |     |
 | Connector |  Pin Header   |  连接器-排针 |     |
 | Connector  | Socket Header |  连接器-排母 |     |
+| Connector  | Board to Wire |  连接器-线对板插座 |     |
 |            |               |         |     |
 |   Diodes   |      LED      | 二极管-发光二极管  |  包含单晶和多晶   |
 |   Diodes   |   Schottky    | 二极管-肖特基二极管  |    |
@@ -25,6 +26,7 @@
 |   Driver   |  LED Driver    | 驱动-LED驱动 | 包含恒流/恒压/PWM调光等类型  |
 |            |               |         |     |
 | Inductors  | Surface Mount | 电感-贴片电感 |     |
+| Inductors  | Power Inductor | 电感-功率电感 |     |
 |            |               |         |     |
 |    Logic   |  Shift Register   |   逻辑-移位寄存器      |  比如74HC595   |
 |    Logic   |  Decoder Encoder  |   逻辑-译码器/编码器   |  比如74HC138   |
