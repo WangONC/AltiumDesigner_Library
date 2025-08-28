@@ -28,6 +28,8 @@
 | Inductors  | Surface Mount | 电感-贴片电感 |     |
 | Inductors  | Power Inductor | 电感-功率电感 |     |
 |            |               |         |     |
+| Interface ICs​ | USB Bridge​ | 通信接口芯片-USB转换芯片​ | 如沁恒CH340, CH343系列等 |
+|            |               |         |     |
 |    Logic   |  Shift Register   |   逻辑-移位寄存器      |  比如74HC595   |
 |    Logic   |  Decoder Encoder  |   逻辑-译码器/编码器   |  比如74HC138   |
 |    Logic |  Multiplexer   |  逻辑-多路复用器   |  比如74HC4051   |
