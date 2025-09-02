@@ -37,7 +37,7 @@
 |   MCU     | Espressif |  MCU-乐鑫   |  物联网芯片很常用   |
 |   MCU     |  JieLi   |  MCU-杰理    | 廉价语音MCU居多    |
 |   MCU     |   STC    |  MCU-宏晶    |  经典的51单片机   |
-|   MCU     |   STM    |  MCU-意法半导体  |  经典的STM32   |
+|   MCU     |   ST    |  MCU-意法半导体  |  经典的STM32   |
 |   MCU     |   WCH    |  MCU-沁恒微电子  |  蓝牙MCU很常用   |
 |            |               |         |     |
 | Oscillators | Crystal |  振荡器-石英晶振  | 包含有源和无源石英晶振 |
