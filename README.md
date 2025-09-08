@@ -14,6 +14,7 @@
 | ---------- | ------------- | ------- | --- |
 | Capacitors | Surface Mount | 电容-贴片电容 |     |
 | Capacitors | Tantalum      | 电容-钽电容  |     |
+| Capacitors | Aluminum Electrolytic Capacitor      | 电容-铝电解电容  |     |
 |            |               |         |     |
 | Connector |    USB     |  连接器-USB连接器 |     |
 | Connector |  Pin Header   |  连接器-排针 |     |
